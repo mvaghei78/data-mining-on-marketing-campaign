@@ -1,4 +1,4 @@
-# data-mining-on-marketing-champaign
+# data-mining-on-marketing-campaign
 
 Welcome to the Customer Data Analysis Project! In this project, we aim to analyze the data of a company's customers using the Marketing Campaign dataset available on Kaggle.
 
